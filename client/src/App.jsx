@@ -23,6 +23,7 @@ export default function App() {
         </Route>
 
         <Route path="/projects" element={<Projects />} />
+        
       </Routes>
       <Footer />
     </BrowserRouter>
